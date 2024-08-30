@@ -1,0 +1,16 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "node crashcourse",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "joyce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
